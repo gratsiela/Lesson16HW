@@ -5,7 +5,7 @@ class Demo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		Task task1 = new Task(null, 1);
+		Task task1 = new Task("washing", 1);
 		Task task2 = new Task("washing dishes", 0.5);
 		Task task3 = new Task("ironing", 1);
 		Task task4 = new Task("cleaning", 2);
